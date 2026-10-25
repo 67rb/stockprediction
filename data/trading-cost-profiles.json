@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-02T14:15:27.778Z",
+  "sourcePackSha256": "5737987f5652d5f462dfa7d452a1cf8a7bceb6e822c14b1e1c428d24cdd8b668",
+  "profiles": {
+    "AAPL": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2390,
+      "startDate": "2017-01-26",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 1.5085,
+      "p90SpreadBps": 2.3636,
+      "medianDailyP95SpreadBps": 2.3778,
+      "recentMedianSpreadBps": 1.9788,
+      "estimatedOneWayCrossingCostBps": 0.9894
+    },
+    "NVDA": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2390,
+      "startDate": "2017-01-26",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 3.5768,
+      "p90SpreadBps": 6.1804,
+      "medianDailyP95SpreadBps": 6.6594,
+      "recentMedianSpreadBps": 1.4379,
+      "estimatedOneWayCrossingCostBps": 0.719
+    },
+    "GOOG": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2390,
+      "startDate": "2017-01-26",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 3.8466,
+      "p90SpreadBps": 7.7227,
+      "medianDailyP95SpreadBps": 6.8335,
+      "recentMedianSpreadBps": 2.8344,
+      "estimatedOneWayCrossingCostBps": 1.4172
+    },
+    "MSFT": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2390,
+      "startDate": "2017-01-26",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 1.9167,
+      "p90SpreadBps": 3.2734,
+      "medianDailyP95SpreadBps": 3.4321,
+      "recentMedianSpreadBps": 2.4639,
+      "estimatedOneWayCrossingCostBps": 1.232
+    },
+    "AMZN": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2390,
+      "startDate": "2017-01-26",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 2.8712,
+      "p90SpreadBps": 6.3072,
+      "medianDailyP95SpreadBps": 5.3084,
+      "recentMedianSpreadBps": 2.0421,
+      "estimatedOneWayCrossingCostBps": 1.0211
+    },
+    "AVGO": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2390,
+      "startDate": "2017-01-26",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 6.3569,
+      "p90SpreadBps": 9.9551,
+      "medianDailyP95SpreadBps": 11.6415,
+      "recentMedianSpreadBps": 5.2342,
+      "estimatedOneWayCrossingCostBps": 2.6171
+    },
+    "META": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2390,
+      "startDate": "2017-01-26",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 3.202,
+      "p90SpreadBps": 5.0956,
+      "medianDailyP95SpreadBps": 5.8207,
+      "recentMedianSpreadBps": 3.6013,
+      "estimatedOneWayCrossingCostBps": 1.8007
+    },
+    "TSLA": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2390,
+      "startDate": "2017-01-26",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 4.5404,
+      "p90SpreadBps": 7.8816,
+      "medianDailyP95SpreadBps": 8.9345,
+      "recentMedianSpreadBps": 3.1259,
+      "estimatedOneWayCrossingCostBps": 1.563
+    },
+    "MU": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2195,
+      "startDate": "2017-11-02",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 4.2957,
+      "p90SpreadBps": 8.4094,
+      "medianDailyP95SpreadBps": 6.8417,
+      "recentMedianSpreadBps": 6.4519,
+      "estimatedOneWayCrossingCostBps": 3.2259
+    },
+    "BRK-B": {
+      "source": "Dukascopy M15 BID/ASK history",
+      "observations": 2193,
+      "startDate": "2017-11-06",
+      "endDate": "2026-07-30",
+      "medianSpreadBps": 4.0837,
+      "p90SpreadBps": 6.3297,
+      "medianDailyP95SpreadBps": 7.6775,
+      "recentMedianSpreadBps": 3.9127,
+      "estimatedOneWayCrossingCostBps": 1.9563
+    }
+  }
+}
